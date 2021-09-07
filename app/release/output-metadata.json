@@ -4,8 +4,8 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.asd412id.tokoappscanner",
-  "variantName": "processReleaseResources",
+  "applicationId": "com.asd412id.screeningscan",
+  "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
